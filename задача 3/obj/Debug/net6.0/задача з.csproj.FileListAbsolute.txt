@@ -1,0 +1,15 @@
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\dz_7\задача з\obj\Debug\net6.0\задача з.csproj.AssemblyReference.cache
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\dz_7\задача з\obj\Debug\net6.0\задача з.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\dz_7\задача з\obj\Debug\net6.0\задача з.AssemblyInfoInputs.cache
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\dz_7\задача з\obj\Debug\net6.0\задача з.AssemblyInfo.cs
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\dz_7\задача з\obj\Debug\net6.0\задача з.csproj.CoreCompileInputs.cache
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\dz_7\задача з\bin\Debug\net6.0\задача з.exe
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\dz_7\задача з\bin\Debug\net6.0\задача з.deps.json
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\dz_7\задача з\bin\Debug\net6.0\задача з.runtimeconfig.json
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\dz_7\задача з\bin\Debug\net6.0\задача з.dll
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\dz_7\задача з\bin\Debug\net6.0\задача з.pdb
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\dz_7\задача з\obj\Debug\net6.0\задача з.dll
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\dz_7\задача з\obj\Debug\net6.0\refint\задача з.dll
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\dz_7\задача з\obj\Debug\net6.0\задача з.pdb
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\dz_7\задача з\obj\Debug\net6.0\задача з.genruntimeconfig.cache
+C:\Users\Тотсамый\Documents\обучение gb\Знакомство с языками программирования\dz_7\задача з\obj\Debug\net6.0\ref\задача з.dll
